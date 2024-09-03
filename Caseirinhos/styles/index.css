@@ -3,12 +3,40 @@
   font-family: Arial, Helvetica, sans-serif;
   }
   body{
- background-color: brown;
+ background-color:gray;
+}
+#bolo1 { 
+   width:auto ;
+   text-align: center;
+   padding: auto;
+   height: auto;
 }
 #nomeloja{
    width:100%;
-   margin-left:35%;
-   margin-right:25%; 
-   background-color:brown;
-    
+   text-align:center;
+   background-color:rgb(239, 8, 8);
+   margin: 0%;}
+   #nomeloja a{
+      background-color: yellow;
+      width:10% ;
+      padding:9px ;
+      float:right;
+      border-radius: 5px;
+    }
+#bolo1 img{
+   width:auto;
+    padding:auto;
+    border-radius: 10px;
+    height: 100% ;
 }
+#bolo2{
+   text-align: center;
+}
+#bolo2 img{
+   width:275px ;
+   border-radius: 10px;
+}    
+
+
+
+  
